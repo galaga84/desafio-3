@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    }
+
+header {
+    text-align: center;    
+}
+
+header h1 {
+    font-weight: 200;
+    font-size: 45px;
+}
+
+header img {
+    width: 
+    100%;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 106px;
+    padding-top: 50px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+
+.contenedor img {
+    width: 500px;
+}
+
+.contenedor p {
+    font-size: 16px;
+}
+
+
+main h2 {
+    font-size: 40px;
+    font-weight: 200;
+    text-align: center;
+    background-color: #1E1A13;
+    margin: 0px;
+    padding: 50px;
+}
+
+.fondo {
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    background-color: #1E1A13;
+    padding-bottom: 50px;
+    gap: 400px;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.galeria img {
+    width: 20%;
+}
+
+footer {
+    background-color: #1E1A13;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;    
+}
+
+a {
+    color: white;
+}
+
+
+a:visited {
+    color:white
+}
+
+a:hover {
+    color:green
+}
+
+
+
+
+
+
+    
+
+
